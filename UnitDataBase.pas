@@ -14,13 +14,15 @@ type
     ADOTableUsersfirst_name: TWideStringField;
     ADOTableUserslast_name: TWideStringField;
     ADOTableUserspatronymic: TWideStringField;
-    ADOTableUsershash_password: TWideMemoField;
     ADOTableUsersbirthday: TDateTimeField;
     ADOTableUsersgroup_id: TIntegerField;
     ADOTableGroups: TADOTable;
     DataSourceGroups: TDataSource;
     ADOTableGroupsid: TAutoIncField;
     ADOTableGroupsgroup_name: TWideStringField;
+    ADOQuery1: TADOQuery;
+    ADODataSetUsers: TADODataSet;
+    ADOTableUserspassword: TWideStringField;
   private
     { Private declarations }
   public
@@ -35,5 +37,7 @@ implementation
 {%CLASSGROUP 'Vcl.Controls.TControl'}
 
 {$R *.dfm}
+
+
 
 end.

@@ -1,7 +1,7 @@
 object DataModule1: TDataModule1
   OldCreateOrder = False
-  Height = 288
-  Width = 281
+  Height = 432
+  Width = 655
   object ADOConnection1: TADOConnection
     Connected = True
     ConnectionString = 
@@ -11,16 +11,16 @@ object DataModule1: TDataModule1
     LoginPrompt = False
     Mode = cmShareDenyNone
     Provider = 'Microsoft.Jet.OLEDB.4.0'
-    Left = 112
-    Top = 16
+    Left = 104
+    Top = 80
   end
   object ADOTableUsers: TADOTable
     Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
     TableName = 'Users'
-    Left = 120
-    Top = 96
+    Left = 400
+    Top = 88
     object ADOTableUsersid: TAutoIncField
       FieldName = 'id'
       ReadOnly = True
@@ -37,29 +37,29 @@ object DataModule1: TDataModule1
       FieldName = 'patronymic'
       Size = 255
     end
-    object ADOTableUsershash_password: TWideMemoField
-      FieldName = 'hash_password'
-      BlobType = ftWideMemo
-    end
     object ADOTableUsersbirthday: TDateTimeField
       FieldName = 'birthday'
     end
     object ADOTableUsersgroup_id: TIntegerField
       FieldName = 'group_id'
     end
+    object ADOTableUserspassword: TWideStringField
+      FieldName = 'password'
+      Size = 50
+    end
   end
   object DataSourceUsers: TDataSource
     DataSet = ADOTableUsers
-    Left = 120
-    Top = 168
+    Left = 56
+    Top = 176
   end
   object ADOTableGroups: TADOTable
     Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
     TableName = 'Groups'
-    Left = 208
-    Top = 104
+    Left = 416
+    Top = 144
     object ADOTableGroupsid: TAutoIncField
       FieldName = 'id'
       ReadOnly = True
@@ -71,7 +71,19 @@ object DataModule1: TDataModule1
   end
   object DataSourceGroups: TDataSource
     DataSet = ADOTableGroups
-    Left = 208
-    Top = 176
+    Left = 408
+    Top = 216
+  end
+  object ADOQuery1: TADOQuery
+    Connection = ADOConnection1
+    DataSource = DataSourceUsers
+    Parameters = <>
+    Left = 184
+    Top = 264
+  end
+  object ADODataSetUsers: TADODataSet
+    Parameters = <>
+    Left = 408
+    Top = 304
   end
 end

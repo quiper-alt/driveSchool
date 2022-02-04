@@ -12,6 +12,7 @@ object LoginForm: TLoginForm
   Font.Style = []
   OldCreateOrder = False
   Position = poDesigned
+  OnShow = CreateFrom
   PixelsPerInch = 96
   TextHeight = 40
   object Label1: TLabel
@@ -28,11 +29,11 @@ object LoginForm: TLoginForm
     ParentFont = False
   end
   object Label2: TLabel
-    Left = 8
-    Top = 147
-    Width = 65
+    Left = 20
+    Top = 155
+    Width = 54
     Height = 20
-    Caption = #1060#1072#1084#1080#1083#1080#1103
+    Caption = #1055#1072#1088#1086#1083#1100
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 20
@@ -66,7 +67,7 @@ object LoginForm: TLoginForm
     Font.Style = []
     ParentFont = False
   end
-  object Button1: TButton
+  object ButtonAboutProgram: TButton
     Left = 8
     Top = 326
     Width = 75
@@ -79,6 +80,7 @@ object LoginForm: TLoginForm
     Font.Style = []
     ParentFont = False
     TabOrder = 0
+    OnClick = ButtonAboutProgramClick
   end
   object btnLogin: TButton
     Left = 166
@@ -110,23 +112,23 @@ object LoginForm: TLoginForm
     TabOrder = 2
     OnClick = btnRegistrationClick
   end
-  object Edit1: TEdit
+  object EditName: TEdit
     Left = 80
     Top = 95
     Width = 161
-    Height = 33
+    Height = 48
     TabOrder = 3
   end
-  object Edit2: TEdit
+  object EditPassword: TEdit
     Left = 80
     Top = 147
     Width = 161
-    Height = 35
+    Height = 48
     TabOrder = 4
   end
-  object ComboBox1: TComboBox
+  object ComboBoxGroup: TComboBox
     Left = 80
-    Top = 203
+    Top = 201
     Width = 161
     Height = 38
     Font.Charset = DEFAULT_CHARSET

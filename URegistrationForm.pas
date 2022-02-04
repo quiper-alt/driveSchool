@@ -59,7 +59,7 @@ UnitDataBase.DataModule1.ADOTableUsers.FieldByName('last_name').AsString:=editSu
 UnitDataBase.DataModule1.ADOTableUsers.FieldByName('patronymic').AsString:=editOtchestvo.Text;
 UnitDataBase.DataModule1.ADOTableUsers.FieldByName('group_id').AsInteger:=StrToInt(comboBoxGroups.Text);
 UnitDataBase.DataModule1.ADOTableUsers.FieldByName('birthday').AsDateTime:=DateTimePicker1.DateTime;
-UnitDataBase.DataModule1.ADOTableUsers.FieldByName('hash_password').AsString:=editPassword.Text;
+UnitDataBase.DataModule1.ADOTableUsers.FieldByName('password').AsString:=editPassword.Text;
 UnitDataBase.DataModule1.ADOTableUsers.Post;
 UnitDataBase.DataModule1.ADOTableUsers.Refresh;
 end;
