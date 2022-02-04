@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\ULoginForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\UMenuForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\UMenuForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\URegistrationForm.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\URegistrationForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\DriveSchoolProject.dproj=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\DriveSchoolProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\URegistrationForm.dfm=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\URegistrationForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\ULoginForm.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\ULoginForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\LRegistrationForm.dfm=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\URegistrationForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\ULoginForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\LRegistrationForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\LRegistrationForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\UMenuForm.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UMenuForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\DriveSchoolProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\ULoginForm.dfm=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\ULoginForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\LRegistrationForm.pas=C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\URegistrationForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\kakde\OneDrive\Документы\Embarcadero\Studio\Projects\UMenuForm.dfm=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UMenuForm.dfm</Transaction>
+    <Transaction>2022.01.16 14:34:22.154,=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit1.pas</Transaction>
+    <Transaction>2022.01.16 14:52:13.235,C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitData.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit1.pas</Transaction>
+    <Transaction>2022.01.16 14:52:13.235,C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitData.dfm=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit1.dfm</Transaction>
+    <Transaction>2022.01.16 14:52:19.413,C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitDataBase.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitData.pas</Transaction>
+    <Transaction>2022.01.16 14:52:19.413,C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitDataBase.dfm=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UnitData.dfm</Transaction>
+    <Transaction>2022.01.16 15:05:50.743,=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit1.pas</Transaction>
+    <Transaction>2022.01.16 15:06:31.487,C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\UUsers.pas=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit1.pas</Transaction>
+    <Transaction>2022.01.16 16:21:04.801,=C:\Users\kakde\OneDrive\Рабочий стол\DriveSchoolDelphi\deplh\Unit2.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ULoginForm.pas"/>
+    <File Path="ULoginForm.dfm"/>
+    <File Path="UMenuForm.pas"/>
+    <File Path="UMenuForm.dfm"/>
+    <File Path="UnitDataBase.pas"/>
+    <File Path="UnitDataBase.dfm"/>
+    <File Path="URegistrationForm.pas"/>
+    <File Path="URegistrationForm.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
